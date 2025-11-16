@@ -1,0 +1,25 @@
+{
+  "total_samples": 120,
+  "n_classes": 8,
+  "class_distribution": {
+    "apple": 15,
+    "banana": 15,
+    "bread": 15,
+    "chicken_breast": 15,
+    "rice": 15,
+    "salad": 15,
+    "pasta": 15,
+    "pizza": 15
+  },
+  "portion_stats": {
+    "mean": 161.10871408442947,
+    "std": 50.630761278353425,
+    "min": 80.93875991101241,
+    "max": 247.77077922208795
+  },
+  "calorie_range": {
+    "min": 29.965623451045925,
+    "max": 647.017230900089,
+    "mean": 229.3627349625946
+  }
+}
