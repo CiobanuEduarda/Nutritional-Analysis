@@ -1,11 +1,3 @@
-"""
-Case Study Implementation: Automated Nutritional Analysis from Food Images
-A minimal working example demonstrating the complete pipeline on a small dataset
-
-Author: Ciobanu Eduarda
-Date: November 2025
-"""
-
 import os
 import numpy as np
 import pandas as pd
